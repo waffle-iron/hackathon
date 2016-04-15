@@ -34,3 +34,8 @@ letterPool = "aaaaaaaaaa"
 ```
 
 ### Random Algorithm
+
+### Dictionary
+
+Dictionaries in the repo are available for word validation
+
