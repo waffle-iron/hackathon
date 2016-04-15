@@ -37,5 +37,5 @@ letterPool = "aaaaaaaaaa"
 
 ### Dictionary
 
-Dictionaries in the repo are available for word validation
+Dictionaries in the repo are available for word validation. There is a raw and a json format, you can chosse the one that fits the most for you.
 
