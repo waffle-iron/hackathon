@@ -21,6 +21,9 @@ Each player picks two more letters and the game goes on until the all face-down 
 
 ### Letters
 
+120 letters
+
+
 | a | b | c | d | e | f | g | h | i | j | k | l | m | o | p | q | r | s | t | u | v | w | x | y | z | wildcard | ganster |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10 | 2 | 3 | 4 | 17 | 2 | 3 | 3 | 9 | 2 | 1 | 3 | 7 | 7 | 3 | 2 | 6 | 7 | 7 | 6 | 3 | 1 | 1 | 1 | 1 | 2 |  1 |
@@ -40,6 +43,15 @@ letterPool = "aaaaaaaaaa"
         "ssssssstttttttuuuuuuvvv"+
         "wxyz**$";
 ```
+
+
+
+#### Letters per player
+
+| player | 2 | 3 | 4 | 5 | 6 |
+| --- |--- |--- |--- |--- |--- |
+|max letters on grid | 60 | 40 | 30 | 24 | 20 |
+
 
 ### Random Algorithm
 
