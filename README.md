@@ -8,6 +8,7 @@ At the signal, all players turn their tiles and try to make crosswords with them
 When a player has used all his letters he says Mixmo
 Each player picks two more letters and the game goes on until the all face-down letters are used.
 
+[Mixmo website](http://mixmo.fr/MIXMO-jeu-de-lettres.htm)
 
 ## Rules
 1. branch per team (may have sub branches)
