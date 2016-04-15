@@ -7,6 +7,8 @@ Create the new generation Mixmo with fun
 
 ## Goal resolve as many as story as you can
 
+[Todo list](https://waffle.io/jlboes/hackathon)
+
 ## Help
 
 ### Letters
