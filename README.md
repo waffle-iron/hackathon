@@ -12,6 +12,7 @@ Each player picks two more letters and the game goes on until the all face-down 
 
 ## Rules
 1. branch per team (may have sub branches)
+2. Easy setup (ex: docker-compose, install doc)
 
 ## Goal resolve as many as story as you can
 
