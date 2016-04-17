@@ -54,8 +54,6 @@ letterPool = "aaaaaaaaaa"
 |max letters on grid | 60 | 40 | 30 | 24 | 20 |
 
 
-### Random Algorithm
-
 ### Dictionary
 
 Dictionaries in the repo are available for word validation. There is a raw and a json format, you can chosse the one that fits the most for you.
