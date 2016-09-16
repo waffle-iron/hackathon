@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jlboes/hackathon.png?label=ready&title=Ready)](https://waffle.io/jlboes/hackathon)
 # hackathon
 Create the new generation Mixmo with fun
 
